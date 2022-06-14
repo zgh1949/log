@@ -20,4 +20,6 @@ plugins:
 
 exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
 
+favicon: /favicon.ico
+
 
