@@ -1,0 +1,32 @@
+{
+  "__raw_positions" : {
+    "_includes" : 1,
+    "script" : 7,
+    "_help" : 8,
+    "_posts" : 3,
+    "_sass" : 4,
+    "icon" : 6,
+    "css" : 5,
+    "_layouts" : 2
+  },
+  "" : [
+    "_includes",
+    "_layouts",
+    "_posts",
+    "_sass",
+    "css",
+    "icon",
+    "script",
+    "_help"
+  ],
+  "__positions" : {
+    "script" : 7,
+    "css" : 5,
+    "_sass" : 4,
+    "_posts" : 3,
+    "_help" : 8,
+    "icon" : 6,
+    "_layouts" : 2,
+    "_includes" : 1
+  }
+}
